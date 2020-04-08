@@ -1,6 +1,8 @@
 # Boxoffice.Jira.Dark
 Dark theme for Boxoffice Company's Jira
 
+One day this might be turned into an official extension - until that day you can load it up with the following steps:
+
 1. Download files from this repo into a folder on your computer.
 
 ## FireFox
