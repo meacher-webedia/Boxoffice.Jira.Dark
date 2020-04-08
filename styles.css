@@ -1,8 +1,0 @@
-body#jira {
-    filter: invert(1);
-}
-
-body#jira img[src*="/secure/attachment/"],
-body#jira img[src*="/secure/thumbnail/"]{
-    filter: invert(1);
-}
